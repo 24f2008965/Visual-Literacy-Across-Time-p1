@@ -1,0 +1,8 @@
+{
+  "prompt": "A Bauhaus graphic design poster from circa 1925 illustrating the concept of K-Means Clustering. The composition is starkly minimalist and geometric, set against a textured, off-white aging paper background with visible grid lines. Data points are represented purely by abstract geometric primitives. Three distinct, mathematically segregated groups dominate the frame. The top-left group is a dense cluster of primary red circles. The bottom-right group is a cluster of primary yellow triangles. The center-left group is a cluster of primary blue squares. Black dashed lines connect outliers within each cluster to a central black 'centroid' shape for that group (a larger black circle, triangle, and square). Strict diagonal grid lines organize the space. Heavy use of thick black lines and solid, flat areas of unmodulated primary color. The aesthetic is purely functional, non-representational, and universalist. There is no shading, no 3D effect, no text, and no photographic elements. The image is a single frame with a print aesthetic.",
+  "model": "Gemini 3 Flash Image",
+  "concept": "K-Means Clustering",
+  "tradition_name": "Bauhaus Graphic Design",
+  "tradition_period": "1919–1933",
+  "tradition_approach": "Strict adherence to geometric primitives (circles, triangles, squares) as data points, mathematically segregated on a stark grid. Used only primary colors (Red, Yellow, Blue) plus black, enforcing flat unmodulated color and purely functional, abstract composition."
+}
